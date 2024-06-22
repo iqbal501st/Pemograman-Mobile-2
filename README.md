@@ -1,16 +1,14 @@
-# mobile
+Langkah-Langkah Menginstall Project Ini 
 
-A new Flutter project.
+Step 1 
+- Menginstall Flutter Terlebih Dahulu Untuk Mendownload Flutter Bisa Di Check Disini "https://docs.flutter.dev/"
+- Perbarui PATH environment variables
+  * Pada kolom pencarian menu 'Start', ketik 'Edit environment variables for your account' dan pilih hasil pencarian paling sesuai.
+  * Kemudian, pada jendela yang muncul, di bagian 'User variables', pilih 'path' dan ketuk 'Edit'.
+  * Lalu, di jendela selanjutnya, ketuk 'New' dan tambahkan Path secara lengkap ke direktori flutter/bin.
+  * Klik 'OK' di kedua jendela untuk mengaktifkan perintah Flutter di Windows. 
+- Setelah semua Cara Diatas Sudah Dilakukan Selanjutnya Cek Flutter Doctor (Berfungsi Untuk Check Flutternya)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Step 2
+- Menginstall Andrroid Studio untuk mendownloadnya bisa di check disini "https://developer.android.com/"
+- Setelah Memasukan Project Ini Kedalam Android Studionya 
